@@ -1,0 +1,630 @@
+
+Iteration 1 : Testing DP with 16 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 16.8789 ms
+Used memory: 1090.734375 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 16 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.7899 ms
+Used memory: 34.421875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 16 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 9.6453 ms
+Used memory: 1049.21875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 16 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0443 ms
+Used memory: 23.4140625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 16 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 14.503 ms
+Used memory: 1039.5546875 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 16 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0361 ms
+Used memory: 17.125 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 16 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 5.9254 ms
+Used memory: 1055.984375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 16 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0182 ms
+Used memory: 14.484375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 16 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 6.6897 ms
+Used memory: 1033.78125 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 16 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.019 ms
+Used memory: 13.4140625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 48.3423 ms
+Used memory: 1033.34375 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 34.0434 ms
+Used memory: 13.171875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 47.1816 ms
+Used memory: 1032.9375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 26.4799 ms
+Used memory: 12.921875 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 47.3757 ms
+Used memory: 1032.7734375 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 26.0343 ms
+Used memory: 12.8359375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 47.1606 ms
+Used memory: 1032.75 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 26.2599 ms
+Used memory: 12.7890625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 47.5608 ms
+Used memory: 1032.7578125 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 16 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 26.4442 ms
+Used memory: 12.8671875 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 16 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 30.2775 ms
+Used memory: 1033.078125 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 16 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.2007 ms
+Used memory: 13.078125 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 16 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 30.4626 ms
+Used memory: 1032.9453125 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 16 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0676 ms
+Used memory: 13.0 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 16 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 30.1389 ms
+Used memory: 1032.90625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 16 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0351 ms
+Used memory: 12.9921875 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 16 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 29.9516 ms
+Used memory: 1032.9140625 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 16 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0222 ms
+Used memory: 13.015625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 16 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 29.8058 ms
+Used memory: 1032.9375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 16 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0214 ms
+Used memory: 13.046875 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 18 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 39.1063 ms
+Used memory: 4629.1171875 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 18 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0173 ms
+Used memory: 38.6171875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 18 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 40.5269 ms
+Used memory: 4632.8359375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 18 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0261 ms
+Used memory: 310.3515625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 18 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 28.4804 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 18 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0176 ms
+Used memory: 94.1953125 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 18 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 29.4192 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 18 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0156 ms
+Used memory: 98.6328125 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 18 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 28.5986 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 18 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0136 ms
+Used memory: 99.921875 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 232.096 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 244.4295 ms
+Used memory: 348.046875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 221.2998 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 252.5507 ms
+Used memory: 100.2890625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 236.4974 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 235.1143 ms
+Used memory: 100.59375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 229.8643 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 235.195 ms
+Used memory: 100.7421875 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 223.0932 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 18 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 235.599 ms
+Used memory: 346.015625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 18 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 116.9119 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 18 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0265 ms
+Used memory: 101.1796875 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 18 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 158.018 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 18 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0285 ms
+Used memory: 101.1171875 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 18 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 126.6381 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 18 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0252 ms
+Used memory: 101.171875 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 18 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 145.6359 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 18 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0434 ms
+Used memory: 347.484375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 18 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 122.5426 ms
+Used memory: 4612.859375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 18 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0301 ms
+Used memory: 123.203125 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 20 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 163.9251 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 20 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0141 ms
+Used memory: 58.578125 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 20 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 129.3886 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 20 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0182 ms
+Used memory: 190.9609375 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 20 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 127.3797 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 20 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0153 ms
+Used memory: 57.7734375 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 20 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 128.1077 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 20 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0268 ms
+Used memory: 54.7890625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 20 vertices, COMPLETE graph
+Hamiltonian Path (DP): true
+Elapsed time: 124.8108 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 20 vertices, COMPLETE graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0131 ms
+Used memory: 53.8671875 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 1002.1654 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 2889.964 ms
+Used memory: 365.8359375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 1180.4126 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 4060.9935 ms
+Used memory: 49.578125 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 1189.8855 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 3474.2853 ms
+Used memory: 54.75 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 1162.2153 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 3068.7025 ms
+Used memory: 38.765625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (DP): false
+Elapsed time: 1175.764 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 20 vertices, DISCONNECTED graph
+Hamiltonian Path (Backtracking): false
+Elapsed time: 3126.9589 ms
+Used memory: 40.015625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing DP with 20 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 717.0504 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 1 : Testing Backtracking with 20 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0174 ms
+Used memory: 40.8359375 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing DP with 20 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 723.5069 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 2 : Testing Backtracking with 20 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0209 ms
+Used memory: 82.75 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing DP with 20 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 764.6113 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 3 : Testing Backtracking with 20 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0263 ms
+Used memory: 84.5078125 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing DP with 20 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 677.155 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 4 : Testing Backtracking with 20 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0176 ms
+Used memory: 642.59375 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing DP with 20 vertices, RANDOM graph
+Hamiltonian Path (DP): true
+Elapsed time: 583.5648 ms
+Used memory: 40962.015625 kilobytes
+
+==============================================================
+
+Iteration 5 : Testing Backtracking with 20 vertices, RANDOM graph
+Hamiltonian Path (Backtracking): true
+Elapsed time: 0.0258 ms
+Used memory: 87.0546875 kilobytes
+
+==============================================================
